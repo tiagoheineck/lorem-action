@@ -24,7 +24,7 @@ LoremIpsum.WORDS = [
   'Não vou passar planilha pra ninguém.',
   'Gastando dinheiro com coisa inútil.',
   'Diodi, vai levar pernada.',
-  'Fiquei jogando uma canastra esperando vocês.'
+  'Fiquei jogando uma canastra esperando vocês.',
   'Tem que comprar a roda da nasa de 32g.',
   'Não vai fazer te pedalar melhor'
 ];
