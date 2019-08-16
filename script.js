@@ -1,9 +1,9 @@
 LoremIpsum.WORDS = [
-  'Vocês tem que ir em Floripa',
-  'Precisa fazer isso em São Paulo',
-  'Só vou dizer uma vez, Canyon',
-  'Parem de mimimi e vão treinar',
-  'Levar o veneninho na caramanhola',
+  'Vocês tem que ir em Floripa.',
+  'Precisa fazer isso em São Paulo.',
+  'Só vou dizer uma vez, Canyon!',
+  'Parem de mimimi e vão treinar.',
+  'Levar o veneninho na caramanhola.',
   'Não tô com saco pra amador que não pensa como atleta.',
   'Quer patrocínio? Se vire.',
   'Teu cú.',
@@ -21,7 +21,12 @@ LoremIpsum.WORDS = [
   'Hoje é na maldade.',
   'Vocês querem mais o que?',
   'Eu treino 6 vezes por minuto, e vocês, já pedalaram hoje?',
-  'Não vou passar planilha pra ninguém.',  
+  'Não vou passar planilha pra ninguém.',
+  'Gastando dinheiro com coisa inútil.',
+  'Diodi, vai levar pernada.',
+  'Fiquei jogando uma canastra esperando vocês.'
+  'Tem que comprar a roda da nasa de 32g.',
+  'Não vai fazer te pedalar melhor'
 ];
 
 LoremIpsum.prototype.punctuate = function(sentence) { return sentence; }
